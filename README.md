@@ -10,7 +10,7 @@
     I am a Software Developer from the United States <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h2>
   <h4>
-  - :telescope: I’m working as a Software Developer that works on Front-End to Back-End to database on Web & WPF applications.
+- :telescope: I’m working as a Software Developer that works on Front-End to Back-End to database on Web & WPF applications.
 
 - :seedling: I'm currently exploring on enhancing my communication, leadership & project management skills.
 
