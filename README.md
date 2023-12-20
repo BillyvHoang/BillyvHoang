@@ -35,8 +35,10 @@
 </div>
 <h2>Some Stats:</h2>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=billyvhoang&theme=dracula&hide_current_streak=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billyvhoang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=billyvhoang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 ###
