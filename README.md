@@ -14,7 +14,7 @@
 
 - :seedling: I'm currently exploring on enhancing my communication, leadership & project management skills.
 
-- :zap: In my free time, I work out, go out to eat with friends and family, or watch anime..
+- :zap: In my free time, I work out, go out to eat with friends and family, or watch anime.
 
 - 📫 How to reach me: Billyhoang100@gmail.com
   </h4>
