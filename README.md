@@ -16,7 +16,7 @@
 
 - :zap: In my free time, I work out, go out to eat with friends and family, or watch anime..
 
-- 📫 How to reach me **billyhoang100@gmail.com**
+- 📫 How to reach me: Billyhoang100@gmail.com
   </h4>
 </div>
 <h2>Languages & Tools:</h2>
