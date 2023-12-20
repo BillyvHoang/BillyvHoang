@@ -16,7 +16,7 @@
 
 - :zap: In my free time, I work out, go out to eat with friends and family, or watch anime..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BillyHoang-blue?style=flat&logo=Linkedin&logoColor=white)](href="https://www.linkedin.com/in/billy-hoang-6965a9193/")
+- 📫 How to reach me **billyhoang100@gmail.com**
   </h4>
 </div>
 <h2>Languages & Tools:</h2>
