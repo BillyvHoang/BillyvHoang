@@ -12,9 +12,9 @@
   <h4>
   - :telescope: I’m working as a Software Developer that works on Front-End to Back-End to database on Web & WPF applications.
 
-- :seedling: I am currently exploring on enhancing my communitation, leadership & project management skills.
+- :seedling: I'm currently exploring on enhancing my communication, leadership & project management skills.
 
-- :zap: In my free time, I workout and go out to eat with friends & family  or watch anime.
+- :zap: In my free time, I work out, go out to eat with friends and family, or watch anime..
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BillyHoang-blue?style=flat&logo=Linkedin&logoColor=white)](href="https://www.linkedin.com/in/billy-hoang-6965a9193/")
   </h4>
