@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350"/>
-</div>
 <h1  align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -14,7 +11,7 @@
 
 - :seedling: I'm currently exploring on enhancing my communication, leadership & project management skills.
 
-- :zap: In my free time, I work out, go out to eat with friends and family, or watch anime.
+- :zap:  I enjoy lifting heavy weights at the gym, going out to eat with friends and family, reading, watching anime series like One Piece, and learning new things!
 
 - 📫 How to reach me: Billyhoang100@gmail.com
   </h4>
