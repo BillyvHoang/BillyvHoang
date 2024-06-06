@@ -12,8 +12,6 @@
 - :seedling: I'm currently exploring on enhancing my communication, leadership & project management skills.
 
 - :zap:  I enjoy lifting heavy weights at the gym, going out to eat with friends and family, reading, watching anime series like One Piece, and learning new things!
-
-- 📫 How to reach me: Billyhoang100@gmail.com
   </h4>
 </div>
 <h2>Languages & Tools:</h2>
